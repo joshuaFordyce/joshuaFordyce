@@ -1,5 +1,5 @@
 
-# Applied AI MLOps | Distributed Data Systems | Reducing Developer Friction
+# Applied AI & MLOps | Distributed Data Systems | Reducing Developer Friction
 Hi I'm Joshua. I architect and build the "glue code" that connections cutting edge llm and RAG tools with high-scale data infrastucture. My core focus is reducing developer friction by creating robust, observable, and performant extensions for modern MLOps frameworks
 
 I'm passionate about building the custom solutions and integrations that bring advanced AI out of the lab and into production for user-focused use cases.
