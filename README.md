@@ -2,18 +2,31 @@
 # Applied AI MLOps | Distributed Data Systems | Reducing Developer Friction
 Hi I'm Joshua. I architect and build the "glue code" that connections cutting edge llm and RAG tools with high-scale data infrastucture. My core focus is reducing developer friction by creating robust, observable, and performant extensions for modern MLOps frameworks
 
-My passion for simplifying complex infrastructure began at Oracle and ramped up at Starburst, where I specialized in high performance Trino data access over massive data lakes.
-
-# Starburst Contributions:
-  - My work centers on developer and operator efficiency.
-    - Contributions to Minitrino (lightweight testing envirionments)
-    - Comprehensive Trino Runbooks for advanced debugging
-    - The Terraform toolkit for declarative data infrastucture deployment
+I'm passionate about building the custom solutions and integrations that bring advanced AI out of the lab and into production for user-focused use cases.
+ 
+# 1. Data InfrastuctureStarburst Contributions:
+  
+  - Starburst Contributiosn & Field Enablement:
+    - My work centers on developer and operator efficiency.
+      - Contributions to Minitrino (lightweight testing envirionments)
+      - Comprehensive Trino Runbooks for advanced debugging
+      - The Terraform toolkit for declarative data infrastucture deployment
    
-# Expertise:
-  - This experiences has made me an expert in deploying, optimizing and troubleshooting complex Distributed Systems and Kubernetes/Container     infrastucture for petabyte-scale data access
+  Expertise:
+  
+  - This experiences has made me an expert in deploying, optimizing and troubleshooting complex Distributed Systems and Kubernetes/Container infrastucture for petabyte-scale data access.
+
+  # 2. AI Integrations & Extension (Custom Solutions):
+  
+  - I'v been applying my infrastructure knowledge to the open source AI landscape, specifically by customizing and extending foundational tools to handle enterprise data complexity
+       - RAG & LLM Tooling:
+         - I build direct contributions and glue-code customizations to RAG libraries like LangChain and LlamaINdex, ensuring they can robustly connect to and query structured data sources like Trino
+       - MLOps:
+         - I create specialized extensions on modern MLOps frameworks like Truss and Opik to solve production challenges like structured output, observability, and efficient model serving
 
 # Highlighted Open Source Contributions with Pinned Repos
+
+These are currently in-progress or recently completed projects that demonstrate my focus on field-ready AI solutions:
   - Semantrino
     - https://github.com/joshuaFordyce/Semantrino
     - Provides a tested, production-ready bluperint for high-accuracy RAG on SQL data
@@ -29,12 +42,11 @@ My passion for simplifying complex infrastructure began at Oracle and ramped up 
   - LLamaIndex Trino Reader
     - https://github.com/joshuaFordyce/llama_index
     - Improves efficiency and integration for data loading into vector/indexing tools
+      
    
-
-
-
-
 # Lets Connect
+
+I am actively seeking roles like forward deployed engineer, field deployment engineer and Post Sales Solution Architect where I can directly bridge the gap between cutting-edge AI research and real-world customer challenges
 - linkedin: https://www.linkedin.com/in/joshua-fordyce-197b89186/
 - Personal Blog: https://infrastructurecorner.com/
  
