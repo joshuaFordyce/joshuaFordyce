@@ -30,7 +30,7 @@ I'm passionate about building the custom solutions and integrations that bring a
     - Trino-Gateway-API
       - https://github.com/joshuaFordyce/trino-gateway-api
       - This repository provides the Kubernetes Gateway API resource definitions to expose the internal Trino Coordinator Service externally 
-    - trino-k9s-cilium-perf
+    - Trino-K8s-Cilium-Perf
       - https://github.com/joshuaFordyce/trino-k8s-cilium-perf
       - This project provides the configuration blueprint and deployment scripts to establish a high-performance network foundation for Trino running on k8s, leveraging Cilium with eBPF
       
