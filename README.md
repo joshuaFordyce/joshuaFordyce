@@ -23,6 +23,17 @@ I'm passionate about building the custom solutions and integrations that bring a
          - I build direct contributions and glue-code customizations to RAG libraries like LangChain and LlamaINdex, ensuring they can robustly connect to and query structured data sources like Trino
        - MLOps:
          - I create specialized extensions on modern MLOps frameworks like Truss and Opik to solve production challenges like structured output, observability, and efficient model serving
+        
+  # 3. Kubernetes Based Trino Deployment Guides 
+
+  - I'v been applying my Kubernetes experties to adding Deployment guides for deploying performant Trino Clusters on Kubernetes
+    - Trino-Gateway-API
+      - https://github.com/joshuaFordyce/trino-gateway-api
+      - This repository provides the Kubernetes Gateway API resource definitions to expose the internal Trino Coordinator Service externally 
+    - trino-k9s-cilium-perf
+      - https://github.com/joshuaFordyce/trino-k8s-cilium-perf
+      - This project provides the configuration blueprint and deployment scripts to establish a high-performance network foundation for Trino running on k8s, leveraging Cilium with eBPF
+      
 
 # Highlighted Open Source Contributions with Pinned Repos
 
