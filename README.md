@@ -4,7 +4,7 @@ Hi I'm Joshua. I architect and build the "glue code" that connections cutting ed
 
 I'm passionate about building the custom solutions and integrations that bring advanced AI out of the lab and into production for user-focused use cases.
  
-# 1. Data InfrastuctureStarburst Contributions:
+# 1. Data Infrastucture Starburst Contributions:
   
   - Starburst Contributiosn & Field Enablement:
     - My work centers on developer and operator efficiency.
